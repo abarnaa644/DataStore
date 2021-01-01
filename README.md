@@ -8,8 +8,7 @@ A file-based key-value data store that supports the basic CRD (create, read, and
 
 # Demo application to test
 1. Use the sample java application DemoDataStoreClient.java
-2. Update the location and sample json data
-3. Run the java application
+2. Run the java application
 
 # Thank you and Best Regards,
 # Abarnaa Rajasekaran
